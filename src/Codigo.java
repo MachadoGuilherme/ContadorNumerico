@@ -11,8 +11,6 @@ public class Codigo {
 //=====================================================================================================================
     public void Start(){
 
-        //System.out.println("\n\t∞∞ Programa de Numeros Repetidos ∞∞\n");
-
         for (int i = 0; i < 5; i++){
             System.out.print("Digite o " + (i+1) + "º Numero: ");
             numeros = input.nextInt();
